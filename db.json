@@ -1,0 +1,369 @@
+{
+  "navPrimary": [
+    {
+      "name": "home",
+      "url": "/"
+    },
+    {
+      "name": "meus pedidos",
+      "url": "/account/my-orders"
+    },
+    {
+      "name": "contato",
+      "url": "/contact"
+    }
+  ],
+  "navCategories": [
+    {
+      "category": "acessórios",
+      "urlCategory": "/category/acessorios"
+    },
+    {
+      "category": "calças",
+      "urlCategory": "/category/calcas"
+    },
+    {
+      "category": "conjuntos",
+      "urlCategory": "/category/conjuntos",
+      "subCategories": [
+        {
+          "subCategory": "macacão",
+          "urlSubCategory": "/sub-category/macacao"
+        }
+      ]
+    },
+    {
+      "category": "croppeds",
+      "urlCategory": "/category/croppeds",
+      "subCategories": [
+        {
+          "subCategory": "body",
+          "urlSubCategory": "/sub-category/body"
+        }
+      ]
+    },
+    {
+      "category": "saias",
+      "urlCategory": "/category/saias"
+    },
+    {
+      "category": "shorts",
+      "urlCategory": "/category/shorts"
+    },
+    {
+      "category": "t-shirts",
+      "urlCategory": "/category/t-shirts",
+      "subCategories": [
+        {
+          "subCategory": "baby urso",
+          "urlSubCategory": "/sub-category/baby-urso"
+        }
+      ]
+    },
+    {
+      "category": "tricot",
+      "urlCategory": "/category/tricot"
+    },
+    {
+      "category": "vestidos",
+      "urlCategory": "/category/vestidos"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120605-2.jpeg",
+      "name": "Vestido Ariana vermelho - 1358",
+      "price": 199.9,
+      "installments": 4,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "novidades"
+    },
+    {
+      "id": 2,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120605.jpeg",
+      "name": "Vestido Ariana preto - 1357",
+      "price": 199.9,
+      "installments": 4,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "novidades"
+    },
+    {
+      "id": 3,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120445.jpeg",
+      "name": "Macacão Brenda vermelho - 1356",
+      "price": 179.9,
+      "installments": 4,
+      "category": "conjuntos",
+      "subCategory": "macacão",
+      "section": "novidades"
+    },
+    {
+      "id": 4,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120444.jpeg",
+      "name": "Macacão Brenda branco - 1355",
+      "price": 179.9,
+      "installments": 4,
+      "category": "conjuntos",
+      "subCategory": "macacão",
+      "section": "novidades"
+    },
+    {
+      "id": 5,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120605-2.jpeg",
+      "name": "Vestido Ariana vermelho - 1358",
+      "price": 199.9,
+      "installments": 4,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "novidades"
+    },
+    {
+      "id": 6,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120605.jpeg",
+      "name": "Vestido Ariana preto - 1357",
+      "price": 199.9,
+      "installments": 4,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "novidades"
+    },
+    {
+      "id": 8,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120444.jpeg",
+      "name": "Macacão Brenda branco - 1355",
+      "price": 179.9,
+      "installments": 4,
+      "category": "conjuntos",
+      "subCategory": "macacão",
+      "section": "novidades"
+    },
+    {
+      "id": 7,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-11-14-at-120445.jpeg",
+      "name": "Macacão Brenda vermelho - 1356",
+      "price": 179.9,
+      "installments": 4,
+      "category": "conjuntos",
+      "subCategory": "macacão",
+      "section": "novidades"
+    },
+    {
+      "id": 9,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/whatsapp-image-2023-10-18-at-152706.jpeg",
+      "name": "Vestido Sofia tricot Branco - 1248",
+      "price": 169.9,
+      "installments": 3,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "destaque"
+    },
+    {
+      "id": 10,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-10-25-at-152853.jpeg",
+      "name": "Vestido Salete Tricot preto - 1311",
+      "price": 189.9,
+      "installments": 3,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "destaque"
+    },
+    {
+      "id": 11,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/whatsapp-image-2023-08-29-at-162804.jpeg",
+      "name": "T shirt Good Urso off - 988",
+      "price": 39.9,
+      "installments": 1,
+      "category": "t-shirts",
+      "subCategory": "",
+      "section": "destaque"
+    },
+    {
+      "id": 12,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/whatsapp-image-2023-09-22-at-111103-1.jpeg",
+      "name": "Saia Roberta Laranja - 1115",
+      "price": 1599.9,
+      "installments": 4,
+      "category": "saias",
+      "subCategory": "",
+      "section": "destaque"
+    },
+    {
+      "id": 13,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/whatsapp-image-2023-10-18-at-152706.jpeg",
+      "name": "Vestido Sofia tricot Branco - 1248",
+      "price": 169.9,
+      "installments": 3,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "destaque"
+    },
+    {
+      "id": 14,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/setembro/setembro-1/outubrio-1/plus-3/whatsapp-image-2023-10-25-at-152853.jpeg",
+      "name": "Vestido Salete Tricot preto - 1311",
+      "price": 189.9,
+      "installments": 3,
+      "category": "vestidos",
+      "subCategory": "",
+      "section": "destaque"
+    },
+    {
+      "id": 15,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/agosto/inaugura/whatsapp-image-2023-08-29-at-162804.jpeg",
+      "name": "T shirt Good Urso off - 988",
+      "price": 39.9,
+      "installments": 1,
+      "category": "t-shirts",
+      "subCategory": "body",
+      "section": "destaque"
+    },
+    {
+      "id": 16,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/whatsapp-image-2023-07-28-at-160253-1.jpeg",
+      "name": "Macaquinho Magnólia verde - 825",
+      "price": 174.93,
+      "oldPrice": 249.9,
+      "installments": 4,
+      "category": "conjuntos",
+      "subCategory": "macacão",
+      "section": "ofertas"
+    },
+    {
+      "id": 17,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/whatsapp-image-2023-07-14-at-110646-1.jpeg",
+      "name": "Calça Zara Caqui - 766",
+      "price": 89.94,
+      "oldPrice": 149.90,
+      "installments": 4,
+      "category": "calças",
+      "subCategory": "",
+      "section": "ofertas"
+    },
+    {
+      "id": 18,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/whatsapp-image-2023-07-08-at-120255.jpeg",
+      "name": "Short Saia Lore branco - 736",
+      "price": 83.94,
+      "oldPrice": 139.90,
+      "installments": 2,
+      "category": "shorts",
+      "subCategory": "",
+      "section": "ofertas"
+    },
+    {
+      "id": 19,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/vestidos/calca-cargo/short-jeans-goiania/monte-siao/abril/colecao-abril-2/monte-siao-3/final-mes/27-abril/oie/17-maio/live-maio/junho-01/junho/whatsapp-image-2023-06-14-at-143635-1.jpeg",
+      "name": "Colete Mostarda - 708",
+      "price": 101.94,
+      "oldPrice": 169.90,
+      "installments": 2,
+      "category": "acessórios",
+      "subCategory": "",
+      "section": "ofertas"
+    },
+    {
+      "id": 20,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/julho-2/hj-13/whatsapp-image-2023-07-28-at-160253-1.jpeg",
+      "name": "Macaquinho Magnólia verde - 825",
+      "price": 174.93,
+      "oldPrice": 249.9,
+      "installments": 4,
+      "category": "conjuntos",
+      "subCategory": "macacão",
+      "section": "ofertas"
+    },
+    {
+      "id": 21,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/whatsapp-image-2023-07-14-at-110646-1.jpeg",
+      "name": "Calça Zara Caqui - 766",
+      "price": 89.94,
+      "oldPrice": 149.90,
+      "installments": 4,
+      "category": "calças",
+      "subCategory": "",
+      "section": "ofertas"
+    },
+    {
+      "id": 22,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/julho-23/whatsapp-image-2023-07-08-at-120255.jpeg",
+      "name": "Short Saia Lore branco - 736",
+      "price": 83.94,
+      "oldPrice": 139.90,
+      "installments": 2,
+      "category": "shorts",
+      "subCategory": "",
+      "section": "ofertas"
+    },
+    {
+      "id": 23,
+      "img": "https://img.irroba.com.br/fit-in/250x250/filters:format(webp):fill(fff):quality(80)/rebecaaz/catalog/vestidos/calca-cargo/short-jeans-goiania/monte-siao/abril/colecao-abril-2/monte-siao-3/final-mes/27-abril/oie/17-maio/live-maio/junho-01/junho/whatsapp-image-2023-06-14-at-143635-1.jpeg",
+      "name": "Colete Mostarda - 708",
+      "price": 101.94,
+      "oldPrice": 169.90,
+      "installments": 2,
+      "category": "croppeds",
+      "subCategory": "",
+      "section": "ofertas"
+    }
+  ],
+  "infos": [
+    {
+      "title": "Institucional",
+      "options": [
+        {
+          "name": "politica de privacidade",
+          "url": "/politics/privacyPolitic"
+        },
+        {
+          "name": "politica de trocas e devolução",
+          "url": "/politics/devolucionPolitic"
+        }
+      ]
+    },
+    {
+      "title": "minha conta",
+      "options": [
+        {
+          "name": "entre em contato",
+          "url": "/teste"
+        },
+        {
+          "name": "meus dados",
+          "url": "/acount"
+        },
+        {
+          "name": "meus pedidos",
+          "url": "/acount"
+        },
+        {
+          "name": "rastrear encomenda",
+          "url": "/acount"
+        }
+      ]
+    },
+    {
+      "title": "Central de Atendimento",
+      "options": [
+        {
+          "name": "teste@teste.com.br",
+          "icon": "mail"
+        },
+        {
+          "name": "jose ornellas de Almeida, 1610 Jardim Flamboyant - Pradópolis - SP CEP: 14850-000",
+          "icon": "domain"
+        },
+        {
+          "name": "(99) 9 9999-9999",
+          "icon": "phone_in_talk"
+        }
+      ]
+    }
+  ],
+  "politics": {
+    "privacyPolitic": "<h1>Política de Privacidade</h1><p>A REBECA AZEVEDO se compromete a manter os dados dos usuários sob total sigilo dentro da nossa organização e dos parceiros necessários para o funcionamento do processo de vendas da loja virtual.</p>  <p>Não comercializamos dados de clientes, e utilizamos somente para realizar a entrega dos produtos comprados no site.</p>  <p>Também utilizamos os dados para criar promoções pertinentes para cada perfil de cliente.</p>  <h2>COLETA DE INFORMAÇÕES</h2>  <p>Ao se cadastrar, os clientes determinam voluntariamente que desejam fornecer os seus dados pessoais requeridos na contratação, atualização ou cancelamento de determinados serviços oferecidos no site ou através dele, tais como: compra, atendimento ao cliente, recebimento de newsletter e outros.</p>  <p>Os dados pessoais recolhidos por nos serão objeto de tratamento automatizado, sendo incorporados aos correspondentes registros eletrônicos de dados pessoais, dos quais você será titular e responsável.</p>  <p>Os dados obtidos e utilizados por nossa empresa bem como pelos parceiros contratados para os serviços oferecidos no site fazem parte dessa política.</p>  <p>Os dados supracitados também poderão ser utilizados, armazenados e tratados por empresas terceiras contratadas pela Rebeca Azevedo com a estrita finalidade de concretizar a venda, tais como intermediadores de pagamento e serviços de análise de risco.</p>  <p>Tais dados poderão ainda ser individualizados por tais empresas para fins estatísticos.</p>  <h2>CONFIRMAÇÃO DE DADOS</h2>  <p>É importante que você saiba que, para sua comodidade e segurança, as informações inseridas em seu cadastro estarão sujeitas à confirmação após qualquer compra realizada em nosso site; por ser uma compra não presencial.</p>  <p>Caso haja qualquer divergência em seu pedido, você será comunicado através do e-mail cadastrado e/ou receber o contato da Rebeca Azevedo solicitando envio de documentos.</p>  <p>Esses procedimentos evitam compras indevidas, e garantem a sua segurança e do site.</p>  <p>O prazo de análise da compra é de até 24h após a confirmação da compra.</p>  <h2>SEGURANÇA</h2>  <p>A segurança de suas informações pessoais é extremamente importante para a Rebeca Azevedo. Usamos proteções físicas, eletrônicas e administrativas projetadas para proteger suas informações pessoais contra perda, uso indevido e acesso não autorizado, divulgação, alteração e destruição.</p>  <p>Além disso, a Rebeca Azevedo usa protocolos e mecanismos de segurança padrão para trocar a transmissão de dados confidenciais, como detalhes de cartão de crédito.</p>  <p>Quando você insere informações pessoais confidenciais, como o número do cartão de crédito em nossa plataforma, nós as criptografamos usando a tecnologia Secure Socket Layer (SSL).</p>  <p>Além de nossa segurança ser garantida, provamos isso a você por meio de nossos certificados de Relatório de Transparência do Google e Site Blindado.</p>",
+    "devolucionPolitic": "<h1>Política de Trocas e Devoluções</h1><p>A nossa política de trocas e devoluções respeita a legislação vigente caso você precise trocar algum produto.</p><p><strong>Procedimento:</strong> Entrar em contato conosco via Whatsapp (16) 99229-3636, informando sobre a troca.</p><p>Em caso de arrependimento, o cliente tem 7 dias corridos contando da data de recebimento para efetuar a troca, em caso de defeito, o cliente tem 30 dias para efetuar a troca contando da data do recebimento, tendo o prazo de análise de 30 dias para comprovação que o produto foi enviado com defeito.</p><p>Para esse caso, não aceitaremos produtos que estiverem com odor, indícios de uso, lavagem ou modificações e que estejam sem etiqueta, tag da loja ou fora da embalagem intacta.</p><p>O frete de retorno, em caso de arrependimento, será por conta do cliente. Se caso de defeito ou qualquer erro da loja, o frete será reembolsado pela loja.</p><p>Obrigada pela compreensão!</p>"
+  }
+}
