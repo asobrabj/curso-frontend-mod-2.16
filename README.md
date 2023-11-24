@@ -39,5 +39,6 @@ Instala todas as dependencias conforme as versões
 
 ### npm start
 Primeiro - Utilize o comando json-server --watch db.json --port 4000 para ler o db.json
+
 Segundo - Iniciar a execução do projeto com npm start
 
